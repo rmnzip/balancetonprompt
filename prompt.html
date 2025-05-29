@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Détail du prompt</title>
+
+  <!-- Police League Gothic -->
+  <link href="https://fonts.googleapis.com/css2?family=League+Gothic&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css" />
+  <script src="prompt-detail.js" defer></script>
+</head>
+<body class="detail-bg">
+
+  <!-- ========= NAVBAR FINE ========= -->
+  <nav class="topbar">
+    <ul class="top-links">
+      <li><a href="index.html">ACCUEIL</a></li>
+      <li><a href="https://armnx.substack.com/" target="blank">NEWSLETTER&nbsp;GRATUITE</a></li>
+      <li><a href="https://www.linkedin.com/in/armanamini/" target="blank">À&nbsp;PROPOS</a></li>
+      <li><a href="mailto:arman@silex.studio">CONTACT</a></li>
+      <!--li><a href="#">COACHING</a></li-->
+    </ul>
+  </nav>
+
+  <!-- ========= CONTENU DÉTAIL ========= -->
+  <div class="detail-container">
+    <p class="show-favorites">
+      <a href="index.html" class="back-home-link">Revenir à la page d’accueil</a>
+    </p>
+
+    <!-- carte détaillée injectée par JS -->
+    <section id="promptCard" class="prompt-detail-card"></section>
+
+    <h2 class="similar-title">Autres prompts similaires</h2>
+    <div id="similarGrid" class="card-grid"></div>
+  </div>
+
+  <!-- ========= FOOTER ========= -->
+  <footer class="site-footer">
+    Fait par Arman&nbsp;avec&nbsp;<span class="footer-heart">♥️</span>&nbsp;|&nbsp;
+    <a href="#">Contact</a> ·
+    <a href="#">Rejoindre la newsletter</a>
+  </footer>
+</body>
+</html>

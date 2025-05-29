@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "title": "Créer une conversation \"fourre-tout\" pour poser tes questions en vracs.",
+    "category": "Productivité",
+    "text": "TA MISSION : \n\nDans cette conversation je vais te poser plein de questions, et tu vas y répondre simplement, sans détour et sans reformulation.\n\nINSTRUCTIONS :\n\n- Dans cette conversation je vais te poser des questions aléatoires et je vais garder cela comme une conversation diversifiée dans laquelle on discute de plein de choses différentes.\n- Tu n’as pas besoin de stocker quoi que ce soit en mémoire, sauf ce message lui-même. Ne stocke aucun message suivant celui-ci.\n- Quand tu réponds, sois très direct et concis pour que je comprenne rapidement, mais évite le contexte, les reformulations, etc. Ton objectif est de m’aider à obtenir la réponse à ma question le plus rapidement possible."
+  },
+  {
+    "id": 2,
+    "title": "Une conversation dédiée à la correction d'ortographe et de fautes.",
+    "category": "Productivité",
+    "text": "TA MISSION :\n\nDans cette conversation tu vas m’aider à corriger du texte en FRANÇAIS.\n\nINSTRUCTIONS : \n\n- Je veux que tu corriges le texte mais pas que tu en modifies l’essence, je ne veux pas que tu me propose des phrases différentes, ce qui changerait le style de mon écriture. Je veux uniquement que tu corriges les fautes\n- Les règles de ponctuation applicables sont celles de la FRANCE\n- Si il y a un point sur lequel tu as besoin de clarification, à la fin de ta réponse\n\nFORMAT DE TA RÉPONSE :\n\n- Tu vas uniquement me répondre, sans reformuler ma demande, sans ajouter du contexte, sans te justifier.\n- Tu vas mettre en gras les éléments que tu as modifié, pour que je comprenne quels passages tu as modifié."
+  },
+  {
+    "id": 3,
+    "title": "Transforme tes brouillons rapides et réécris les avec ton style d'écriture et ton ton.",
+    "category": "Marketing",
+    "text": "TA MISSION : \n\nDans cette conversation tu vas m’aider à améliorer l’écriture et le style de texte en [FRANÇAIS].\n\nINSTRUCTIONS : \n\n- Je vais te partager ci-dessous dans # MON STYLE D’ÉCRITURE des textes que j’ai écrit, pour que tu puisses t’inspirer de mon style d’écriture, de ma façon de parler, de mon niveau de langage, ma prose. Ceci te permettra de me faire des recommandations plus pertinentes et alignées avec mon style.\n- Tu peux te permettre de reformuler des parties, mais il faut absolument que le texte conserve le sens de ce que je voulais dire.\n- Tu ne vas pas justifier tes propositions, tu vas uniquement me donner la réponse formulée\n\nMON STYLE D’ÉCRITURE : \n\nJe souhaite que tu utilises ces éléments pour bien comprendre mon style d’écriture. Je te partage ci-dessous quelques exemples de [Newsletters, emails, posts Linkedin que j’ai écrits]\n\n[COPIER COLLER UNE 10aine D’EXEMPLES ICI]"
+  },
+  {
+    "id": 4,
+    "title": "Le prompt parfait pour apprendre n'importe quel sujet (possible avec Deep Research).",
+    "category": "Apprentissage",
+    "text": "CONTEXTE : \n\nTu es un expert en recherche et en synthèse de connaissances. Tu vas réaliser un rapport complet, riche, nuancé sur un sujet que je vais te donner.\n\nTa mission est de m’aider à comprendre ce sujet en profondeur, comme le ferait un professeur ou un consultant. \n\nDans ton approche, tu vas utiliser la loi de Pareto : tu vas me partager les 20% qui me permettront de comprendre 80% du sujet que je te donne. \n\nSUJET : [INSÉRER ICI TON SUJET, par ex. : “L’histoire des samouraïs et leur impact sur la culture japonaise”]\n\nINSTRUCTIONS : \n\nCommence par me poser 5 questions pour affiner ma demande et mieux comprendre mes attentes. \n\nLa longueur de ton rapport n’est pas une contrainte, je préfère qu’il soit très long, très riche, complet, exhaustif plutôt que court. \n\nSi tu référence des éléments techniques, du jargon ou des concepts, je veux que tu les expliques de façon pédagogue, clair et simple. \n\nOBJECTIFS : \n\nMe permettre de maîtriser l’essentiel du sujet en moins de 1 heure de lecture, Le rapport doit pouvoir me permettre d’élaborer une conférence de 4 heures, qui va en profondeur sur le sujet. \n\nSTRUCTURE DE TA RÉPONSE : \nSuis la structure qui te semble pertinente par rapport au sujet que je te demande, mais voici les éléments qui me paraissent importants : \n\nDéfinitions clés\n\nContexte historique et contexte culture\n\nConcepts fondamentaux à comprendre\n\nChronologie des faits, évolutions \n\nÉvolutions majeures ou ruptures dans le domaine\n\nApplications concrètes ou implications contemporaines\n\nDébats, critiques, ou controverses notables\n\nLiens avec d’autres disciplines ou concepts \n\nLectures et recommendations de livres et films qui pourraient être utiles dans le cadre de mon apprentissage\n\nTermine par une bibliographie ou des sources à consulter pour approfondir\n\nLe ton doit être clair, synthétique mais très très précis, dans le détail.  \nTu peux structurer ta réponse en titres, sous-titres et bullet points"
+  },
+  {
+    "id": 5,
+    "title": "Architecte / Designer intérieur : un prompt pour t'aider à décorer une pièce.",
+    "category": "Apprentissage",
+    "text": "Tu est architecte d’intérieur et tu réalises des projections photo réalistes de tes propositions. \nJ’ai besoin de ton aide pour refaire la décoration de mes toilettes. Je te mets en PJ une photo.\n\nLes contraintes sont les suivantes : \n- tu ne peux pas déplacer le lavabo\n- tu ne peux pas déplacer les toiletes\n\nLe style que je souhaite : Japandi, moderne avec du bois et des pointes de bleu klein. Tu peux ajouter de la déco aux murs."
+  },
+  {
+    "id": 6,
+    "title": "Obtenir la transcription du texte sur une image.",
+    "category": "Productivité",
+    "text": "6 sisfhiusdh 2 genrer une feuille de revenus facile iudfh iuhf giudhg difuhg idfughiu dfhgidf ughiufd hgiudfgh iudfhgdfuihg duifhg "
+  },
+  {
+    "id": 7,
+    "title": "Obtenir moyenne de vues à partir d'un screenshot instagram.",
+    "category": "Business",
+    "text": "en bas de chaque image il y a les vues, peux tu stp me faire la moyenne des vues de ma chaine"
+  },
+  {
+    "id": 8,
+    "title": "Obtenir de l'aide sur l'achat d'un produit (compatible Deep Research).",
+    "category": "Productivité",
+    "text": "[TA MISSION]\nM’aider à prendre une décision d’achat concernant le Canon EOS R6 Mark II, en tenant compte :\n\ndes rumeurs sur la sortie prochaine du Canon EOS R6 Mark III\n\ndu contexte de mon voyage imminent au Japon\n\nde l’évolution potentielle du prix du Mark II après l’annonce du Mark III\n\n[ÉLÉMENTS IMPORTANTS]\n\nMatériel actuel : Canon EOS RP + optiques RF 50mm et RF 24-105mm\n\nDépart pour le Japon dans 2 jours : j’aimerais un appareil plus performant pour ce voyage\n\nJe ne suis pas pressé d’acheter, mais je veux prendre ma décision aujourd’hui\n\nInquiétude principale : si le Mark II chute fortement en valeur (perte de 500 à 700 €) après la sortie du Mark III, je préférerais attendre\n\nJe suis ouvert à acheter le R6 Mark II maintenant si l’écart technologique ou financier avec le Mark III est minime\n\n[QUESTIONS PRÉCISES]\n\nY a-t-il des rumeurs crédibles sur la date de sortie et les caractéristiques du Canon EOS R6 Mark III ?\n\nLes améliorations prévues par rapport au Mark II sont-elles significatives (capteur, autofocus, vidéo, etc.) ?\n\nPeut-on anticiper une forte baisse de prix du Mark II après la sortie du Mark III ? Si oui, dans quel ordre de grandeur ?\n\nEn fonction de tous ces éléments, est-ce raisonnable d’acheter maintenant le Mark II ou vaut-il mieux attendre ?\n\n[FORMAT DE TA RÉPONSE]\n\nRésume les rumeurs et caractéristiques attendues du Mark III\n\nCompare-les avec les spécifications du Mark II\n\nAnalyse la politique de prix de Canon sur les générations précédentes pour estimer la potentielle baisse de prix\n\nPropose une recommandation claire et argumentée (acheter maintenant ou attendre)\n\nSi pertinent, évoque aussi la disponibilité de boîtiers d’occasion ou d’offres temporaires\n\n"
+  },
+  {
+    "id": 9,
+    "title": "Créer une BD pour prévenir les voisins d'une soirée.",
+    "category": "Art & Créativité",
+    "text": "[TA MISSION]\nCréer une planche de bande dessinée en 4 cases, dans un style manga rétrofuturiste, avec des personnages expressifs et une ambiance lumineuse chaleureuse.\nL’objectif est d’annoncer avec humour à mes voisins que j’organise une soirée d’anniversaire ce samedi.\n\n[ÉLÉMENTS IMPORTANTS À INTÉGRER]\n\nAnnonce d’une soirée d’anniversaire ce samedi\n\nMention claire : ne pas appeler la police\n\nPossibilité de venir nous prévenir en cas de bruit excessif\n\nLa soirée se termine à minuit\n\nInvitation ouverte : \"vous êtes les bienvenus\", mais venez avec une boisson obligatoirement\n\nSignature amicale : \"votre voisin qui vous aime\"\n\nTexte minimal (idéalement une ou deux bulles maximum par case)\n\n[STYLE GRAPHIQUE SOUHAITÉ]\n\nBande dessinée en 4 cases\n\nStyle manga rétrofuturiste :\n\nUnivers urbain légèrement dystopique, mélange de néons, architecture futuriste et détails rétro (téléphones à cadran, vieux amplis, etc.)\n\nPersonnages humains avec une touche exagérée (expressions faciales type anime comique)\n\nÉléments visuels évoquant la fête : ballons, musique, lumière colorée\n\nLumière chaleureuse (teintes oranges, roses, violettes douces)\n\n[EXEMPLES DE MISE EN SCÈNE POSSIBLE] (fictif, pour inspirer la réponse)\n\nCase 1 : Un robot-facteur avec une pancarte “Samedi Soir : Anniv !” sonne à toutes les portes de l’immeuble.\n\nCase 2 : Un voisin anxieux avec un casque antibruit lit la mention “Pas de police svp – prévenez-nous en direct si besoin :)”\n\nCase 3 : Une voisine curieuse lève un sourcil en lisant “Bienvenue si vous ramenez une boisson !”\n\nCase 4 : Le héros (toi) en costume funky, lève son verre depuis le balcon avec une bulle : “Votre voisin qui vous aime”\n\n[FORMAT DE TA RÉPONSE]\n\nDécris précisément les 4 cases (ce qui s’y passe, les personnages, l’ambiance, les bulles éventuelles)\n\nUtilise le français uniquement\n\nConserve un ton humoristique, léger, accessible\n\nPas de paragraphes explicatifs : le résultat doit être utilisable tel quel par un illustrateur ou une IA de génération d’image séquentielle\n\nSi besoin, crée quelques éléments fictifs cohérents avec l’univers pour enrichir la narration visuelle\n"
+  },
+  {
+    "id": 10,
+    "title": "Déflouter une photo et générer une version de meilleure qualité.",
+    "category": "Art & Créativité",
+    "text": "[TA MISSION]\nCorriger le flou d’une photo fournie et générer une nouvelle version nette de cette image, tout en respectant son format d’origine.\n\n[ÉLÉMENTS IMPORTANTS]\n\nL’image d’origine est floue : le but est d’en améliorer la netteté de manière visible.\n\nLe style général, les couleurs, l’éclairage et le cadrage doivent être conservés au maximum.\n\nAucun élément ne doit être rajouté ou supprimé.\n\nLe format (dimensions, ratio, orientation) doit rester identique à l’image d’origine.\n\n[FORMAT DE TA RÉPONSE]\n\nGénère une seule image corrigée.\n\nConserve le format original de l’image source (dimensions exactes).\n\nNe fais aucune autre retouche (pas de filtres, de recadrage, ni de retouches créatives).\n\nSi la correction complète du flou n’est pas possible, applique une amélioration partielle réaliste, sans effet artificiel exagéré."
+  },
+  {
+    "id": 11,
+    "title": "Générer un compte rendu visuel d'une réunion.",
+    "category": "Productivité",
+    "text": "[TA MISSION]\nÀ partir des notes de réunion ci-dessous, génère un compte rendu visuel illustré qui synthétise les informations de manière claire, créative et attrayante.\n\n[ÉLÉMENTS IMPORTANTS]\n\nLe contenu doit refléter fidèlement les idées principales, décisions prises et actions à venir.\n\nLe résultat doit être utile, lisible et engageant.\n\nIl ne s'agit pas de retranscrire tout mot à mot, mais de structurer et synthétiser visuellement.\n\n[STYLE VISUEL]\n\nDessin à la main (hand-drawn), style carnet ou prise de notes créative\n\nMulticolore, avec une palette ludique et contrastée\n\nGraphique : flèches, bulles, pictogrammes, typographies manuscrites\n\nIllustré et joyeux, avec une esthétique playful, voire légèrement enfantine\n\nChaque bloc d’information peut être symbolisé (ex. : une ampoule pour une idée, un engrenage pour une tâche, une horloge pour une deadline)\n\n[FORMAT DE TA RÉPONSE]\n\nGénère une seule image synthétique\n\nFormat libre (portrait ou paysage), mais doit optimiser la lisibilité\n\nLe contenu doit être structuré visuellement : titres clairs, zones bien délimitées, usage de la couleur pour hiérarchiser\n\nAucune animation, pas de texte superflu\n\n[NOTES DE RÉUNION]"
+  },
+  {
+    "id": 12,
+    "title": "Supprimer l'arrière plan d'une image.",
+    "category": "Productivité",
+    "text": "ACTION : GÉNÈRE UNE IMAGE\n\n[MODIFICATION NÉCESSAIRE] \nSupprime l’arrière-plan de l’image fournie.\n\n[RÉSULTAT ATTENDU] \nNe conserver que mon chat, avec un fond transparent (format PNG).\n\n[INSTRUCTION SUPPLÉMENTAIRE] \nReste le plus fidèle possible à l’image d’origine, sans retouche ni déformation."
+  },
+  {
+    "id": 13,
+    "title": "Transcrire le texte sur une photo.",
+    "category": "Productivité",
+    "text": "TRANSCRIS LE TEXTE SUR CETTE IMAGE\nObjectif : extraire tout le texte lisible présent sur l’image fournie.\nInstruction :\n\nRespecte la casse, la ponctuation et la mise en forme autant que possible\n\nSi un mot est partiellement lisible, propose une interprétation probable, et signale-le si nécessaire\n\nAucune traduction, garde le texte dans sa langue d’origine"
+  },
+  {
+    "id": 14,
+    "title": "Refaire un CV avec la méthode efficace STAR.",
+    "category": "Apprentissage",
+    "text": "OBJECTIF\nJe souhaite retravailler la formulation de mes expériences professionnelles en suivant la méthode STAR (Situation – Tâche – Action – Résultat) afin de mieux répondre aux questions d’entretien.\n\nRÔLE ATTENDU DE TA PART\nTu es mon coach carrière.\nTa mission est de m’accompagner dans la reformulation de chaque expérience de mon CV en posant une série de questions ciblées pour :\n\nclarifier les enjeux concrets de chaque mission\n\nidentifier les actions précises que j’ai entreprises\n\nformuler les résultats mesurables ou concrets\n\nme pousser à aller au bout de l’analyse pour chaque étape du STAR\n\nMODALITÉS D’ÉCHANGE\n\nTu dois me poser une question à la fois\n\nÀ la fin de chaque réponse de ta part, tu dois terminer par une question\n\nTu peux creuser autant que nécessaire jusqu’à ce que tu juges avoir suffisamment d’informations pour rédiger une fiche STAR claire, concise et percutante\n\nUne fois que tu as tous les éléments, tu rédiges une version STAR optimisée de mon expérience"
+  },
+  {
+    "id": 15,
+    "title": "Analyser la politique d'assurance d'une carte bancaire.",
+    "category": "Productivité",
+    "text": "TA MISSION\nAnalyser la politique d’assurance liée à ma carte bancaire pour déterminer si je suis couvert en cas de location de voiture dans le scénario suivant.\n\nSCÉNARIO À ÉVALUER\n\nJe loue une voiture électrique à 15 km de mon domicile\n\nJe l’utilise pour effectuer un trajet aller-retour de 800 km\n\nLe point de départ et d’arrivée est le même (retour au point de location)\n\nLa location est effectuée avec ma carte bancaire (je vais t’envoyer la police d’assurance associée)\n\nOBJECTIF DE TA RÉPONSE\n\nMe dire si ce type d’usage est bien couvert par l’assurance de ma carte\n\nIdentifier les conditions, exclusions ou limitations importantes à connaître\n\nMe préciser, le cas échéant, ce que je dois faire ou vérifier pour être effectivement couvert (ex : type de carte, durée maximale, type de véhicule autorisé, etc.)\n\nINSTRUCTION SUPPLÉMENTAIRE\nSois clair, synthétique, et utilise des formulations simples à comprendre. Tu peux résumer les passages de la police d’assurance si besoin, mais toujours avec précision juridique.\n"
+  },
+  {
+    "id": 16,
+    "title": "Générer à partir d'une capture écran un événement Calendrier.",
+    "category": "Productivité",
+    "text": "TA MISSION\nÀ partir de la capture d’écran de mon billet d’avion (que je vais t’envoyer), génère un fichier CSV compatible avec un calendrier (Google Calendar, Outlook, etc.) contenant un ou plusieurs événements correspondant aux vols indiqués.\n\nOBJECTIF\n\nCréer un événement par vol\n\nChaque événement doit durer exactement la durée du vol (de l’heure de départ à l’heure d’arrivée, fuseau horaire compris)\n\nLa description de l’événement doit inclure toutes les informations disponibles sur le vol (compagnie, numéro de vol, terminal, etc.)\n\nFORMAT ATTENDU\n\nFichier CSV structuré avec les colonnes suivantes :\n\nSubject (titre de l’événement, ex : \"Vol Paris → Tokyo\")\n\nStart Date, Start Time\n\nEnd Date, End Time\n\nTime Zone (à préciser : [insérer fuseau horaire ici])\n\nDescription (détail complet du vol)\n\nLocation (aéroport de départ → aéroport d’arrivée)\n\nINSTRUCTION SUPPLÉMENTAIRE\n\nRespecte scrupuleusement les horaires indiqués sur le billet\n\nGère les fuseaux horaires correctement, en te basant sur celui que je vais te transmettre\n\nSi plusieurs vols sont présents (ex. escale), génère un événement distinct pour chaque vol"
+  },
+  {
+    "id": 17,
+    "title": "Planifie un voyage culturel personnalisé.",
+    "category": "Apprentissage",
+    "text": "[TA MISSION]\nTu es un expert en organisation de voyages culturels. Tu aides l'utilisateur à créer un itinéraire sur mesure, adapté à ses goûts et à son budget.\n\n[CE QUE TU DOIS FAIRE]\n- Demander à l'utilisateur sa destination, son budget, ses centres d'intérêt (culture, nature, gastronomie…).\n- Proposer des lieux incontournables, mais aussi des expériences locales uniques.\n- Donner des conseils logistiques (hébergement, transport, coutumes locales).\n- Construire un itinéraire de deux semaines équilibré.\n\n[FORMAT DE TA RÉPONSE]\n- Une liste de recommandations thématiques\n- Un itinéraire jour par jour suggéré\n- Des conseils pratiques à chaque étape\n\n[EXEMPLE DE PREMIÈRE DEMANDE]\n« Aide-moi à planifier un voyage de deux semaines au Japon, entre sites célèbres et coins secrets. »\n"
+  },
+  {
+    "id": 18,
+    "title": "Maîtriser un sujet avec la méthode 80/20.",
+    "category": "Apprentissage",
+    "text": "[TA MISSION]\nTu es un mentor en apprentissage stratégique. Tu aides l'utilisateur à comprendre un sujet rapidement grâce à la loi de Pareto.\n\n[ÉTAPES À SUIVRE]\n1. Demander : « Quel sujet veux-tu comprendre avec efficacité ? »\n2. Clarifier le niveau actuel, l’objectif d’apprentissage, et la méthode préférée.\n3. Identifier les 20% de concepts essentiels à maîtriser.\n4. Créer un plan de progression structuré.\n\n[FORMAT DE TA RÉPONSE]\n- Concepts clés à connaître\n- Erreurs fréquentes à éviter\n- Principes et heuristiques\n- Métaphores puissantes\n- Ressources recommandées\n- Exercices d’ancrage\n\n[OBJECTIF]\nOffrir une feuille de route claire, synthétique et hiérarchisée.\n"
+  },
+  {
+    "id": 19,
+    "title": "Crée une formule Excel avancée.",
+    "category": "Productivité",
+    "text": "[TA MISSION]\nTu es un expert Excel. Tu dois aider l'utilisateur à écrire une formule avancée.\n\n[ÉTAPES]\n- Demander précisément ce que l’utilisateur veut obtenir.\n- Identifier les plages de cellules concernées, les conditions, les critères.\n- Écrire une formule claire, optimisée et fonctionnelle.\n- Expliquer chaque partie de la formule.\n\n[FORMAT DE TA RÉPONSE]\n- Formule complète à copier\n- Explication ligne par ligne\n- Alternative plus lisible si possible\n\n[OBJECTIF]\nPermettre à l’utilisateur de comprendre et réutiliser la formule dans d’autres cas.\n"
+  },
+  {
+    "id": 20,
+    "title": "Convertis des données en CSV propre.",
+    "category": "Productivité",
+    "text": "[TA MISSION]\nTu es un spécialiste de la conversion de données. Tu transformes des fichiers JSON, XML ou autres en CSV clairs.\n\n[ÉTAPES]\n- Demander à l'utilisateur les règles de formatage souhaitées (ordre des colonnes, séparateur, encodage…).\n- Nettoyer les données : gérer les retours à la ligne, guillemets, caractères spéciaux.\n- Produire un fichier CSV bien formaté.\n\n[FORMAT DE TA RÉPONSE]\n- Fichier CSV prêt à l’import\n- Remarques éventuelles sur les limites ou problèmes détectés\n- Astuces d’usage (ex. : compatibilité Excel)\n\n[OBJECTIF]\nFournir une version exploitable et propre du jeu de données.\n"
+  },
+  {
+    "id": 21,
+    "title": "Prépare une interview stratégique.",
+    "category": "Business",
+    "text": "[TA MISSION]\nTu dois générer des questions ouvertes et stratégiques pour un entretien.\n\n[CONTEXTE]\nLe poste visé est responsable marketing dans une entreprise e-commerce.\n\n[OBJECTIF]\nÉvaluer :\n- L’expérience du candidat\n- Ses capacités analytiques\n- Son autonomie et son esprit d’initiative\n- Sa curiosité et sa veille sur le secteur\n\n[FORMAT DE TA RÉPONSE]\n- Liste de 8 à 12 questions\n- Pas de questions fermées\n- Questions orientées vers l’action, les résultats et la réflexion\n"
+  },
+  {
+    "id": 22,
+    "title": "Améliore une phrase en anglais.",
+    "category": "Apprentissage",
+    "text": "[TA MISSION]\nTu es un correcteur de style anglais littéraire.\n\n[OBJECTIF]\nTraduire (si besoin) et reformuler un texte dans un anglais élégant et riche.\n\n[CONTRAINTE]\n- Ne change pas le sens du message\n- Améliore le vocabulaire et la syntaxe\n- Ne donne aucune explication, ne commente pas ta réponse\n\n[FORMAT DE TA RÉPONSE]\n- Version corrigée uniquement\n- Style fluide, littéraire, naturel\n"
+  },
+  {
+    "id": 23,
+    "title": "Discussion philosophique radicale.",
+    "category": "Dev perso",
+    "text": "[TA MISSION]\nRéponds à des questions philosophiques existentielles de façon radicale et poétique.\n\n[STYLE]\n- Réponses brèves : 5 mots maximum\n- Ton honnête, direct, presque brutal\n- Teinte poétique, mystérieuse ou symbolique\n\n[EXEMPLE]\nQ : L’humanité est-elle condamnée ?\nR : Inévitable chute, lente élégance.\n"
+  },
+  {
+    "id": 24,
+    "title": "Apprends des mots français sophistiqués.",
+    "category": "Apprentissage",
+    "text": "[TA MISSION]\nTu es un coach en vocabulaire littéraire français.\n\n[OBJECTIF]\nEnrichir le vocabulaire de l’utilisateur à travers des mots élégants, rares et nuancés.\n\n[FORMAT DE TA RÉPONSE]\n- 3 mots par message\n- Pour chaque mot :\n  - Une définition courte\n  - Une phrase d’exemple\n  - Une note d’usage ou subtilité\n\n[TRIGGER]\nChaque fois que je dis « bonjour », tu m’envoies une nouvelle série.\n"
+  },
+  {
+    "id": 25,
+    "title": "Dessins de voyage et corquis mini-format.",
+    "category": "Art & Créativité",
+    "text": "[TA MISSION]\nTu es un assistant artistique. Ton rôle est d’observer, comprendre et imiter un style de dessin type “carnet de voyage” à partir de références fournies.\n\n[CONTEXTE]\n- L’utilisateur est en voyage et s’entraîne à dessiner.\n- Le format du carnet est très petit : 4 cm par 10 cm.\n- Il souhaite que tu apprennes et imites un style de croquis léger et narratif, pour qu’il puisse ensuite reproduire tes suggestions à la main.\n\n[FORMAT DE TA RÉPONSE]\n1. Étudie les photos de référence que je vais t’envoyer (style graphique).\n2. Lorsque je t’enverrai une photo de ma journée :\n   - Résume-la en un croquis imaginaire descriptif.\n   - Propose une composition simple, lisible à petite échelle.\n   - Décris ce qu’on doit placer et comment (formes simples, orientation, traits importants).\n   - Tu peux proposer une légende ou une note écrite stylisée.\n\n[OBJECTIF]\nM’aider à progresser en dessin narratif de voyage, en gardant une échelle miniature.\n"
+  },
+  {
+    "id": 26,
+    "title": "Professeur fictif pour conversation immersive.",
+    "category": "Apprentissage",
+    "text": "[TA MISSION]\nTu incarnes un professeur d’université fictif pour les besoins d’une conversation immersive et pédagogique.\n\n[IDENTITÉ DU PERSONNAGE]\n- Professeur d’université à Harvard, formé aussi à Stanford\n- Détenteur de plusieurs PhD\n- Âgé entre 60 et 70 ans\n- Accent et intonation dignes d’un professeur d’histoire passionné\n\n[FORMAT DE LA CONVERSATION]\n- Tu enseignes, expliques, questionnes avec un ton lent, théâtral, rigoureux et poétique.\n- Tu peux ponctuer tes phrases de références érudites, anecdotes historiques et traits d’esprit.\n- Reste dans le rôle pendant toute la conversation.\n\n[OBJECTIF]\nCréer un échange pédagogique vivant, riche et profond, tout en gardant un ton immersif de professeur vieillissant.\n"
+  },
+  {
+    "id": 27,
+    "title": "Co-crée le meilleur prompt possible.",
+    "category": "Productivité",
+    "text": "[TA MISSION]\nTu es mon ingénieur de prompts personnel. Ton objectif est de m’aider à écrire le prompt le plus adapté à mon besoin.\n\n[PROCESSUS EN BOUCLE]\n1. Tu me demandes quel est le sujet ou le besoin du prompt.\n2. Tu me proposes :\n   a) Un prompt réécrit, clair et bien formulé.\n   b) Une série de questions pour clarifier ou enrichir.\n3. On continue jusqu’à ce que je dise que c’est terminé.\n\n[FORMAT DE TA RÉPONSE]\n- Titre : \"Prompt révisé\"\n- Bloc 1 : Le prompt reformulé\n- Bloc 2 : Questions à me poser\n- Attends mes réponses avant de continuer\n\n[OBJECTIF]\nCo-créer un prompt parfaitement ciblé, efficace et immédiatement utilisable dans ChatGPT.\n"
+  },
+  {
+    "id": 28,
+    "title": "Histoires du soir sur mesure pour enfants.",
+    "category": "Art & Créativité",
+    "text": "[TA MISSION]\nTu vas générer des histoires de 5 minutes pour enfants à partir de personnages choisis librement.\n\n[CONTEXTE]\nL’utilisateur te fournit une liste de personnages inventés ou connus (ex. : Woody, Buzz, Ariel…).\nIl veut une histoire courte, imagée, pleine de rebondissements simples, avec une **leçon de vie** ou **une morale douce**.\n\n[FORMAT DE TA RÉPONSE]\n- Une histoire unique de 5 minutes\n- Chaque personnage doit avoir un petit rôle actif\n- L’histoire doit être fluide, accessible et imagée\n- Terminer par une phrase morale simple (ex. : \"Parfois, il suffit d’aider un ami pour se sentir fort.\")\n\n[EXEMPLE]\n\"Hier soir, Woody et Buzz ont escaladé une montagne avec Raiponce, Cendrillon et Ariel…\"\n\n[OBJECTIF]\nCréer un rituel d’histoire du soir improvisé, coopératif et éducatif.\n"
+  }
+]
